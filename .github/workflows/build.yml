@@ -37,5 +37,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Robot-ali-APK
-          path: extracted/RobotOffline_Android/app/build/outputs/apk/debug/app-debug.apk
+          path: extracted/RobotOfflineAndroid/app/build/outputs/apk/debug/app-debug.apk
           
